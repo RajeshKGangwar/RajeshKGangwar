@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, flask and Machine Learning.**
 
-- 📫 How to reach me **rggangwar.01@gmail.com**
+- 📫 How to reach me **rggangwar.01@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
